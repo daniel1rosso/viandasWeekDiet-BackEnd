@@ -5,5 +5,5 @@
  La documentación de cada API que corresponde a este repositorio se adjuntara a continuación:
 
  La Data Base que se debe utilizar para el funcionamiento del Back-End es SQL con el motor de MySQL que se encuentra en el directorio basic. Usuario de acceso:
- - *User: * test@test.com
- - *Password: * 1234
+ - User: * test@test.com
+ - Password: * 1234
